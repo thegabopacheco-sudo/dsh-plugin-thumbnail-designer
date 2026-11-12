@@ -1,0 +1,8 @@
+{
+  "name": "thumbnail-designer-test",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/client": "2.2.0"
+  }
+}
